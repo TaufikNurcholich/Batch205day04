@@ -1,0 +1,6 @@
+C:\Batch205\day04\SLatihanDay04\CaSoftMeFirst\bin\Debug\CaSoftMeFirst.exe.config
+C:\Batch205\day04\SLatihanDay04\CaSoftMeFirst\bin\Debug\CaSoftMeFirst.exe
+C:\Batch205\day04\SLatihanDay04\CaSoftMeFirst\bin\Debug\CaSoftMeFirst.pdb
+C:\Batch205\day04\SLatihanDay04\CaSoftMeFirst\obj\Debug\CaSolveMeFirst.csprojResolveAssemblyReference.cache
+C:\Batch205\day04\SLatihanDay04\CaSoftMeFirst\obj\Debug\CaSoftMeFirst.exe
+C:\Batch205\day04\SLatihanDay04\CaSoftMeFirst\obj\Debug\CaSoftMeFirst.pdb

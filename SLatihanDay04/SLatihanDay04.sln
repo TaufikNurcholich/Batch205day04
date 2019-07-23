@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaDay04", "CaDay04\CaDay04.csproj", "{F6FA4888-727A-4EC5-8880-FFC3A6804F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaSolveMeFirst", "CaSoftMeFirst\CaSolveMeFirst.csproj", "{A34C88AE-BDFD-4946-9544-A4F4C473CF9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaSimpleArraySum", "CaSimpleArraySum\CaSimpleArraySum.csproj", "{78E0F57E-E795-479D-BF1D-7CD2B6855D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FA4888-727A-4EC5-8880-FFC3A6804F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FA4888-727A-4EC5-8880-FFC3A6804F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FA4888-727A-4EC5-8880-FFC3A6804F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FA4888-727A-4EC5-8880-FFC3A6804F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34C88AE-BDFD-4946-9544-A4F4C473CF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34C88AE-BDFD-4946-9544-A4F4C473CF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34C88AE-BDFD-4946-9544-A4F4C473CF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34C88AE-BDFD-4946-9544-A4F4C473CF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E0F57E-E795-479D-BF1D-7CD2B6855D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E0F57E-E795-479D-BF1D-7CD2B6855D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E0F57E-E795-479D-BF1D-7CD2B6855D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E0F57E-E795-479D-BF1D-7CD2B6855D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
